@@ -3,7 +3,7 @@
 title: MiniGame
 ---
 classDiagram
-    Character <-- Weapon
+    Character o-- Weapon
     Character <|-- Player
     Character <|-- Enemy
     Weapon <|-- Gun

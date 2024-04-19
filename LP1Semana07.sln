@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructWithRef", "StructWith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame", "MiniGame\MiniGame.csproj", "{132CA4D2-8CBC-409D-BF12-CE046C5DC0EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnits", "GameUnits\GameUnits.csproj", "{D855E1FC-A48E-4220-A21D-BF699E1DFCF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{132CA4D2-8CBC-409D-BF12-CE046C5DC0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{132CA4D2-8CBC-409D-BF12-CE046C5DC0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{132CA4D2-8CBC-409D-BF12-CE046C5DC0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D855E1FC-A48E-4220-A21D-BF699E1DFCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D855E1FC-A48E-4220-A21D-BF699E1DFCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D855E1FC-A48E-4220-A21D-BF699E1DFCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D855E1FC-A48E-4220-A21D-BF699E1DFCF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
