@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: MiniGame
 ---
@@ -27,3 +28,4 @@ classDiagram
         +Sword(float,float)
         +AttackWithSword(): void
     }
+```
