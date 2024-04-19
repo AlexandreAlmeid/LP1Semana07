@@ -9,7 +9,7 @@ classDiagram
     Weapon <|-- Sword
     Character : +string Name
     Character : #Weapon[] weapons
-    Character : +Flight(): void
+    Character : +Flight()
     Weapon : #float power
     Weapon : +Weapon(float)
     class Player{
@@ -21,11 +21,11 @@ classDiagram
     class Gun{
         +int Ammo
         +Gun(float,int)
-        +FireGun(): void
+        +FireGun()
     }
     class Sword{
         +float BladeLength
         +Sword(float,float)
-        +AttackWithSword(): void
+        +AttackWithSword()
     }
 ```
